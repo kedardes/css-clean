@@ -1,0 +1,7 @@
+.masthead.theme-pinned-masthead {
+    visibility: hidden !important;
+}
+
+.masthead-placeholder {
+    height: 50px !important;
+}

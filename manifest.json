@@ -1,6 +1,6 @@
 {
     "name": "ClearView",
-    "description": "Keep your sanity while browsing",
+    "description": "Clearing clutter from some popular sites - nytimes.com",
     "manifest_version": 2,
     "icons": {  "16": "icon16.png",
                 "48": "icon48.png",
@@ -15,5 +15,5 @@
          "run_at" : "document_start"
         }
     ],
-    "version":"1.0"
+    "version":"1.2.1"
 }

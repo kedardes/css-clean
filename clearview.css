@@ -16,3 +16,7 @@
 .masthead-placeholder {
     height: 111px !important;
 }
+
+.site-index {
+	display: none !important;
+}

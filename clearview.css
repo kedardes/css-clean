@@ -1,0 +1,18 @@
+
+/* nytimes.com */
+
+.masthead .masthead-cap {
+    display: none !important;
+}
+
+.masthead .editions.tab {
+    display: none !important;
+}
+
+.mini-navigation {
+    display: none !important;
+}
+
+.masthead-placeholder {
+    height: 111px !important;
+}

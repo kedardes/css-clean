@@ -1,0 +1,19 @@
+{
+    "name": "ClearView",
+    "description": "Keep your sanity while browsing",
+    "manifest_version": 2,
+    "icons": {  "16": "icon16.png",
+                "48": "icon48.png",
+                "128": "icon128.png" 
+             },
+    "content_scripts": [
+        {
+         "matches": [
+            "*://*.nytimes.com/*"
+         ],
+         "css": ["clearview.css"],
+         "run_at" : "document_start"
+        }
+    ],
+    "version":"1.0"
+}
